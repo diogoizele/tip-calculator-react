@@ -1,0 +1,1 @@
+[Tip Calculator App Preview](https://diogoizele.github.io/tip-calculator-react/.)
