@@ -1,1 +1,4 @@
-[Tip Calculator App Preview](https://diogoizele.github.io/tip-calculator-react/.)
+## Tip Calculator
+
+#### This project was more of a technology migration challenge than proprietary logic.
+#### I challenged myself to make a simple tip calculator on React!
